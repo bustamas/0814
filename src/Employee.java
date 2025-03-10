@@ -36,7 +36,7 @@ public class Employee {
     public LocalDate getSzuletes() {
         return szuletes;
     }
-    public void setSzuletes(LocalDate szuletes) {
+    public static void setSzuletes(LocalDate szuletes) {
         this.szuletes = szuletes;
     }
     public double getFizetes() {

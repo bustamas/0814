@@ -31,6 +31,8 @@ public class Store {
                 int ev = Integer.parseInt(szuletesArray[0]);
                 int ho = Integer.parseInt(szuletesArray[1]);
                 int nap = Integer.parseInt(szuletesArray[2]);
+                emp.setSzuletes(LocalDate.of(ev,ho,nap));
+                emp.setFizetes(Double.parseDouble(lineArray[4]));
 
                 emp.setSzuletes(LocalDate.parse(lineArray[3]));
             }
