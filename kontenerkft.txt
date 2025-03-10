@@ -1,0 +1,53 @@
+Nagy Béla#Szeged#Gyékényes utca 72#1988-08-14#740000
+Erdős Géza#Budapest#Sarkadi Imre utca 34#1950-06-7#750000
+Kovács József#Budapest#Bőröndös utca 109#1974-03-2#410000
+Gyenge Tibor#Győr#Pataki István utca 107#1976-09-21#690000
+Vitéz Károly#Hatvan#Rendőr utca 90#1980-05-12#370000
+Almási Dániel#Miskolc#Lokátor utca 42#1973-11-3#380000
+Szántó József#Nyíregyháza#Irányi utca 107#1955-04-18#150000
+Budai Zoltán#Nyíregyháza#Evező utca 58#1962-06-11#650000
+Rigó Tamás#Szolnok#Tündér lépcső 118#1952-03-23#410000
+Kis Ferenc#Budapest#Kálmán utca 118#1968-01-18#300000
+Vitéz József#Szeged#Cukrász utca 83#1957-04-1#150000
+Bogdán József#Hatvan#Kővágó utca 7#1964-03-4#480000
+Takács József#Budapest#Vízimadár köz 52#1959-07-8#760000
+Nagy Zoltán#Szeged#Libertás utca 18#1956-09-24#220000
+Fehér Ferenc#Miskolc#Ferenc krt. 58#1967-09-18#490000
+Fekete Ferenc#Miskolc#Mész utca 37#1973-10-1#200000
+Horváth Dániel#Hatvan#Dezsőfia utca 27#1950-03-19#520000
+Almási László#Nyíregyháza#Lándzsa tér 55#1958-05-22#70000
+Almási Tibor#Budapest#Kéknyelű utca 86#1976-08-25#660000
+Bakos László#Szeged#Tahi köz 108#1954-03-25#790000
+Fehér Gábor#Miskolc#Róza köz 103#1983-06-7#30000
+Varga Tamás#Szolnok#Toldy utca 92#1962-11-7#210000
+Vitéz Dániel#Miskolc#Bagaria utca 99#1958-06-17#540000
+Gyenge Dániel#Nyíregyháza#Spanyolrét utca 8#1967-03-13#330000
+Horváth Lajos#Győr#Hegy utca 22#1989-08-24#420000
+Szabó Zoltán#Budapest#Ladik utca 76#1966-10-4#490000
+Bogdán Géza#Hatvan#Thán Károly utca 20#1988-01-16#610000
+Gyenge Gábor#Szolnok#Október 6. utca 43#1973-05-8#380000
+Pintér György#Miskolc#Lukács utca 76#1955-03-22#50000
+Erdős Tamás#Budapest#Füstike utca 9#1987-11-10#10000
+Fényes György#Győr#Balogh Géza utca 39#1987-08-12#520000
+Budai Béla#Miskolc#Túrkeve utca 15#1972-03-3#110000
+Vitéz Tibor#Győr#Lajosház köz 57#1968-04-22#710000
+Erős József#Hatvan#Igaz utca 108#1979-03-27#10000
+Almási Gábor#Szeged#Vitorla utca 40#1986-10-26#20000
+Takács Zoltán#Győr#Szemere köz 110#1970-06-7#130000
+Kiss Károly#Szolnok#Kisfuvaros utca 111#1953-06-19#620000
+Almási József#Szolnok#Ede utca 10#1959-02-3#740000
+Veres Tibor#Budapest#Süveg utca 69#1978-07-26#690000
+Bodnár József#Budapest#Adorján utca 70#1967-01-27#350000
+Budai József#Szolnok#Szabóky Rezső utca 105#1977-06-3#380000
+Veres Tibor#Miskolc#Egri József utca 93#1988-06-9#120000
+Erős Béla#Nyíregyháza#Nógrádi köz 43#1979-02-3#70000
+Mészáros Tamás#Hatvan#Motor utca 13#1960-08-7#710000
+Pintér Ferenc#Budapest#Haraszti út 1#1980-02-3#620000
+Fehér László#Hatvan#Millennium utca 56#1988-07-23#80000
+Bíró Géza#Szeged#Lisznyai utca 79#1969-11-9#770000
+Takács Tamás#Szolnok#Ipartelep utca 79#1960-04-26#30000
+Nagy László#Szolnok#Hajadon utca 46#1956-06-22#700000
+Szalai Ferenc#Szolnok#Emőd utca 83#1964-03-11#600000
+Fehér Tamás#Szeged#Egerszeg utca 62#1969-06-7#390000
+Szabó Dániel#Szeged#Takaros utca 66#1985-10-3#790000
+Almási László#Szolnok#Katlan köz 107#1961-05-27#470000
