@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Bús Tamás");
-        Solution.startSolution();
+        Solution.startSolution();  // Elindítjuk a megoldást
     }
 }
