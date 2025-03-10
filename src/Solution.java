@@ -1,7 +1,5 @@
-import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 
@@ -29,7 +27,6 @@ public class Solution {
             for (Employee emp : empList) {
                 if (emp.getHely().equals("Hatvan") || emp.getHely().equals("Szolnok")) {
                     writer.write(emp.getNev()+"\n");
-                    
                 }
             }
         }
