@@ -35,7 +35,6 @@ public class Solution {
     public static void calcAverageSalary(ArrayList<Employee> empList) {
         double totalSalary = 0;
         int count = 0;
-
         // Végigiterálunk az alkalmazottakon és összeadjuk azok fizetését, akik Hatvanban vagy Szolnokon dolgoznak
         for (Employee emp : empList) {
             if (emp.getHely().equals("Hatvan") || emp.getHely().equals("Szolnok")) {
