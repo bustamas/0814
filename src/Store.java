@@ -1,9 +1,10 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.Scanner;
 public class Store {
-    public static void readFile() {
+    public static ArrayList<Employee> readFile() {
         try {
             tryReadFile();
         } catch (FileNotFoundException e) {
